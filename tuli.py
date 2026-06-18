@@ -1,0 +1,1 @@
+print("tuli kumari")
